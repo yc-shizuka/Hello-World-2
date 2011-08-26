@@ -5,5 +5,6 @@ public class Main {
 		System.out.println("Hello World 2, again");
 		System.out.println("I am Shizuka.");
 		System.out.println("I am Yoshihide.");
+		System.out.println("Nice to meet you.");
 	}
 }
