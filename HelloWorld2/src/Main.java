@@ -7,5 +7,6 @@ public class Main {
 		System.out.println("I am Yoshihide.");
 		System.out.println("Nice to meet you.");
 		System.out.println("I am sleepy.");
+		System.out.println("Have a good night.");
 	}
 }
